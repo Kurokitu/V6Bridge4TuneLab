@@ -10,7 +10,7 @@ This is an extension that allows you to tune the voicebanks supported by VOCALOI
 # Notice ⚠
 This extension conflicts with the V5Bridge4TuneLab extension and they cannot be installed together.
 At present, this issue cannot be resolved, so you can only install and use one at the same time.
-If you want to remove any extensions, please locate your AppData directory, which will contain the TuneLab folder, and find the corresponding extension directory in the extensions folder and delete it.
+If you want to remove any extensions, please locate your AppData directory, which will contain the TuneLab folder, and find the corresponding extension directory in the extensions folder and delete it.  
 `Example: C:\Users\<username>\AppData\Roaming\TuneLab\Extensions\`
 
 # Don't Have TuneLab Edior?
