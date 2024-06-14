@@ -1,5 +1,5 @@
 # V6Bridge4TuneLab
-This is an extension that allows you to tune the voicebanks supported by VOCALOID5 in TuneLab.
+This is an extension that allows you to tune the voicebanks supported by VOCALOID6 AI in TuneLab.
 
 # Let's Start
 - Please ensure that version 6.4.0 of VOCALOID6 is installed.
