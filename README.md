@@ -16,3 +16,5 @@ If you want to remove any extensions, please locate your AppData directory, whic
 # Don't Have TuneLab Edior?
 Go here for details 👉 https://github.com/LiuYunPlayer/TuneLab
 
+# Extension developer
+[mhbalthasar](https://github.com/mhbalthasar)
